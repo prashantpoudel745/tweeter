@@ -1,4 +1,4 @@
-# Twitter Clone README
+# Tweeter README
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -105,5 +105,5 @@ Contributions are welcome! Please follow these steps:
 ---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
