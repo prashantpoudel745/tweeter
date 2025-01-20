@@ -51,7 +51,7 @@ This project is a Twitter clone, a simplified social media platform for users to
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/prashantpoudel745/tweeter
-   cd twitter
+   cd tweeter
    ```
 
 2. **Set Up Environment Variables**
